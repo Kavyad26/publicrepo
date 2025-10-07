@@ -1,2 +1,2 @@
 # publicrepo
-publicrepo
+publicrepo for git commands demonstration
